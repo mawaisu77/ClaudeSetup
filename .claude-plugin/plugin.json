@@ -1,0 +1,28 @@
+{
+  "name": "everything-claude-code",
+  "displayName": "Everything Claude Code",
+  "description": "A curated collection of production-ready agents, skills, hooks, commands, and rules for software development with Claude Code.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mawaisu77",
+    "email": "awais@ayla-app.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "agents",
+    "skills",
+    "hooks",
+    "code-review",
+    "workflow",
+    "javascript",
+    "typescript"
+  ],
+  "agents": [
+    "./.claude/agents/"
+  ],
+  "skills": "./.claude/skills/",
+  "commands": [
+    "./.claude/commands/"
+  ],
+  "hooks": "./.claude/hooks/hooks.json"
+}

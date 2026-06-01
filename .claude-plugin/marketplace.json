@@ -1,0 +1,15 @@
+{
+  "name": "everything-claude-code",
+  "owner": {
+    "name": "mawaisu77",
+    "email": "awais@ayla-app.com"
+  },
+  "plugins": [
+    {
+      "name": "everything-claude-code",
+      "source": "./",
+      "description": "Curated agents, skills, hooks, commands, and rules for Claude Code.",
+      "version": "0.1.0"
+    }
+  ]
+}
